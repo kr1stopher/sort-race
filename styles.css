@@ -1,0 +1,11 @@
+/*
+    This File: styles.css - external style sheet for webpage
+*/
+
+body {
+    text-align: center;
+    font-family: sans-serif;
+}
+canvas {
+    background-color: black;
+}
